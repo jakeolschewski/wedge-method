@@ -124,6 +124,19 @@ We publish in-depth AI consulting content across multiple platforms:
 | [Industry Solutions](https://thewedgemethodai.com/solutions) | AI tools tailored to your consulting specialty |
 | [Documentation](https://jakeolschewski.github.io/wedge-method/) | GitHub Pages documentation site |
 
+
+## SEO Resource Library
+
+Keyword-targeted guides for AI consultants — hosted on GitHub Pages:
+
+| Guide | Target Keyword | Link |
+|-------|---------------|------|
+| The Best AI Tools for Consultants in 2026 | AI consulting tools | [Read →](https://jakeolschewski.github.io/wedge-method/docs/ai-consulting-tools) |
+| Free AI Consulting Proposal Templates (With Prompts) | AI proposal template | [Read →](https://jakeolschewski.github.io/wedge-method/docs/ai-proposal-templates) |
+| How to Price AI Consulting: Complete 2026 Rate Guide | How to price AI consulting | [Read →](https://jakeolschewski.github.io/wedge-method/docs/how-to-price-ai-consulting) |
+| The 120-Point AI Consulting Project Checklist | AI consultant checklist | [Read →](https://jakeolschewski.github.io/wedge-method/docs/ai-consultant-checklist) |
+| How to Start an AI Consulting Freelance Business in 2026 | AI consulting freelance | [Read →](https://jakeolschewski.github.io/wedge-method/docs/ai-consulting-freelance) |
+
 ## Connect
 
 | Platform | Link |
